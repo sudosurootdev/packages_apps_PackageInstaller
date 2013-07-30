@@ -147,6 +147,8 @@
 
     <!-- Body text for new tab when there are no permissions [CHAR LIMIT=NONE] -->
     <string name="no_perms">This app requires no permissions.</string>
+    <string name="grant_confirm_question">Do you want to grant the following permissions?
+        It will get access to:</string>
 
     <string name="currentVersion">Current Version:</string>
     <string name="newVersion">New Version:</string>
